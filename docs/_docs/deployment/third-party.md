@@ -24,7 +24,7 @@ Read this [step-by-step guide](https://medium.com/@jameshamann/deploy-your-jekyl
 
 [CloudCannon](https://cloudcannon.com) has everything you need to build, host
 and update Jekyll websites. Take advantage of our global CDN, automated SSL,
-continuous deployment and [more](https://cloudcannon.com/features/).
+continuous deployment and [more](https://cloudcannon.com/build/).
 
 ## GitHub Pages
 
